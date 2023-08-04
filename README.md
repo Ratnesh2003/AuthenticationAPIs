@@ -30,7 +30,7 @@ localhost:8080/api/auth/signup
 ```json
 {
   "username": "Ratnesh Mishra",
-  "email": "ratneshmishrarulz2003@gmail.com",
+  "email": "ratneshmishrarulz@gmail.com",
   "password": "Abcd@1234",
   "roles": ["ROLE_USER, ROLE_ADMIN"]
 }
